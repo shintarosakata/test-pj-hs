@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/shintaro.sakata/projects/haskell/myproject/.stack-work/install/x86_64-osx/ef023d18e654c4125687db5aecafef4ee05c42ad45ea9bda7467f8ad9cef77fb/8.6.5/bin"
-libdir     = "/Users/shintaro.sakata/projects/haskell/myproject/.stack-work/install/x86_64-osx/ef023d18e654c4125687db5aecafef4ee05c42ad45ea9bda7467f8ad9cef77fb/8.6.5/lib/x86_64-osx-ghc-8.6.5/myproject-0.1.0.0-Iqur5pfsMzs9efXneKKeRh"
+libdir     = "/Users/shintaro.sakata/projects/haskell/myproject/.stack-work/install/x86_64-osx/ef023d18e654c4125687db5aecafef4ee05c42ad45ea9bda7467f8ad9cef77fb/8.6.5/lib/x86_64-osx-ghc-8.6.5/myproject-0.1.0.0-71Ume5QVWh5GNAAUSc5X0i"
 dynlibdir  = "/Users/shintaro.sakata/projects/haskell/myproject/.stack-work/install/x86_64-osx/ef023d18e654c4125687db5aecafef4ee05c42ad45ea9bda7467f8ad9cef77fb/8.6.5/lib/x86_64-osx-ghc-8.6.5"
 datadir    = "/Users/shintaro.sakata/projects/haskell/myproject/.stack-work/install/x86_64-osx/ef023d18e654c4125687db5aecafef4ee05c42ad45ea9bda7467f8ad9cef77fb/8.6.5/share/x86_64-osx-ghc-8.6.5/myproject-0.1.0.0"
 libexecdir = "/Users/shintaro.sakata/projects/haskell/myproject/.stack-work/install/x86_64-osx/ef023d18e654c4125687db5aecafef4ee05c42ad45ea9bda7467f8ad9cef77fb/8.6.5/libexec/x86_64-osx-ghc-8.6.5/myproject-0.1.0.0"

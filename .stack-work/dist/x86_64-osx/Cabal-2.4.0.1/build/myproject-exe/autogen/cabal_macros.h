@@ -122,7 +122,7 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "myproject-0.1.0.0-L5sGSDr0isx7mc2X03vUF3-myproject-exe"
+#define CURRENT_COMPONENT_ID "myproject-0.1.0.0-KksRCOhfD9g9Ajf3g9y9s8-myproject-exe"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.0"
