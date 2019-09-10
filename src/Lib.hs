@@ -33,17 +33,20 @@ api :: Proxy Api
 api = Proxy
 
 server :: Server Api
-server = return users
-    :<|> return user id
+server = getUsers
+    :<|> getUser
+
+getUsers :: Handler [User]
+getUsers = pure users
+
+getUser :: Int -> Handler (Maybe User)
+getUser id = pure $ findUser id users
 
 users :: [User]
 users = [ User 1 "Isaac" "Newton"
         , User 2 "Albert" "Einstein"
         , User 3 "しんたろう" "坂田"
         ]
-
-user :: Int -> Handler (Maybe User)
-user n = pure (findUser n users)
 
 findUser :: Int -> [User] -> Maybe User
 findUser _ []                     = Nothing
